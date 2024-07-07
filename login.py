@@ -12,15 +12,7 @@ import csv
 from csv import DictReader
 import pandas as pd
 import time
-####import attachem
-####from twilio.rest import Client
-####from playsound import playsound
 
-# Find these values at https://twilio.com/user/account
-####account_sid = "ACc88d37c81ce58d34a00c5329fd36908f"
-####auth_token = "f210e16c03aabb02932c4c112fbedfec"
-####
-####client = Client(account_sid, auth_token)
 
 from tkinter import *
 from tkinter import ttk

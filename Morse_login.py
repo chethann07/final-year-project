@@ -26,10 +26,11 @@ import telepot
 global  username1
 global username12
 
-bot=telepot.Bot("7059925065:AAFxGEhyzYDTePhXI2NdTEplpRtZLaw4-6M")
-ch_id="1374196115"
-bot1=telepot.Bot("7059925065:AAFxGEhyzYDTePhXI2NdTEplpRtZLaw4-6M")
-ch_id1="1374196115"
+
+bot=telepot.Bot("put your telegram bot link here")
+ch_id="put your telegram bot id here"
+bot1=telepot.Bot("put your telegram bot link here")
+ch_id1="put your telegram bot id here"
 
 
 # Counters
